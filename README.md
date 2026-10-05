@@ -94,7 +94,7 @@ The application provides a history of previously recorded resolution actions, al
 
 ### Main Dashboard
 
-(main_dashboard.png)
+![Main Dashboard](screenshots/main_dashboard.png)
 
 **Screenshot:** Main ERP/SAP-style exception dashboard showing KPIs, filters, detected problems, and exception distribution.
 
@@ -102,7 +102,7 @@ The application provides a history of previously recorded resolution actions, al
 
 ### Order Investigation
 
-(order_investigation.png)
+![Order Investigation](screenshots/order_investigation.png)
 
 **Screenshot:** Selected order with priority, order details, problem details, and recommended fix.
 
@@ -110,7 +110,7 @@ The application provides a history of previously recorded resolution actions, al
 
 ### AI Resolution Plan
 
-(AI_resolution_plan.png)
+![AI Resolution Plan](screenshots/AI_resolution_plan.png)
 
 **Screenshot:** AI-generated resolution summary, business impact, recommended action, and next steps.
 
@@ -118,7 +118,7 @@ The application provides a history of previously recorded resolution actions, al
 
 ### Resolution Workflow
 
-(resolution_workflow.png)
+![Resolution Workflow](screenshots/resolution_workflow.png)
 
 **Screenshot:** Resolution workflow showing status selection and action recording.
 
@@ -126,7 +126,7 @@ The application provides a history of previously recorded resolution actions, al
 
 ### Resolution History
 
-(resolution_history.png)
+![Resolution History](screenshots/resolution_history.png)
 
 **Screenshot:** Resolution history showing previously recorded corrective actions.
 
